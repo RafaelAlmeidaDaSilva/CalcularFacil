@@ -1,0 +1,11 @@
+c:\users\orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\bin\Debug\CalcularFacil.exe.config
+C:\Users\Orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\bin\Debug\CalcularFacil.exe
+C:\Users\Orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\bin\Debug\CalcularFacil.pdb
+C:\Users\Orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\obj\Debug\CalcularFacil.csprojResolveAssemblyReference.cache
+C:\Users\Orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\obj\Debug\CalcularFacil.FrmHome.resources
+C:\Users\Orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\obj\Debug\CalcularFacil.Properties.Resources.resources
+C:\Users\Orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\obj\Debug\CalcularFacil.csproj.GenerateResource.Cache
+C:\Users\Orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\obj\Debug\CalcularFacil.exe
+C:\Users\Orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\obj\Debug\CalcularFacil.pdb
+C:\Users\Orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\obj\Debug\CalcularFacil.FrmDificuldade.resources
+C:\Users\Orion\documents\visual studio 2013\Projects\CalcularFacil\CalcularFacil\obj\Debug\CalcularFacil.FrmOperador.resources
